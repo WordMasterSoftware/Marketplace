@@ -21,6 +21,766 @@
         "The drug has no adverse side effects.",
         "They received adverse criticism."
       ]
+    },
+    {
+      "word": "advocate",
+      "chinese": "v./n. 拥护，提倡；倡导者",
+      "phonetic": "/'ædvəkeɪt/",
+      "part_of_speech": "verb/noun",
+      "sentences": [
+        "He advocates for environmental protection.",
+        "She is a strong advocate for education reform."
+      ]
+    },
+    {
+      "word": "aesthetic",
+      "chinese": "adj. 美学的，审美的",
+      "phonetic": "/es'θetɪk/",
+      "part_of_speech": "adj",
+      "sentences": [
+        "The building has great aesthetic value.",
+        "They made the decision based on aesthetic considerations."
+      ]
+    },
+    {
+      "word": "aggregate",
+      "chinese": "n./v. 合计，总计；聚集",
+      "phonetic": "/'æɡrɪɡət/",
+      "part_of_speech": "noun/verb",
+      "sentences": [
+        "The aggregate of all donations was impressive.",
+        "These small gains aggregate into a significant advantage."
+      ]
+    },
+    {
+      "word": "allocate",
+      "chinese": "v. 分配，分派",
+      "phonetic": "/'æləkeɪt/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "The government will allocate funds for the project.",
+        "We need to allocate resources efficiently."
+      ]
+    },
+    {
+      "word": "ambiguous",
+      "chinese": "adj. 模棱两可的，不明确的",
+      "phonetic": "/æm'bɪɡjuəs/",
+      "part_of_speech": "adj",
+      "sentences": [
+        "His answer was deliberately ambiguous.",
+        "The law is ambiguous on this issue."
+      ]
+    },
+    {
+      "word": "ambitious",
+      "chinese": "adj. 有雄心的，野心勃勃的",
+      "phonetic": "/æm'bɪʃəs/",
+      "part_of_speech": "adj",
+      "sentences": [
+        "She has ambitious plans for her career.",
+        "The project is highly ambitious in scope."
+      ]
+    },
+    {
+      "word": "amend",
+      "chinese": "v. 修改，修订",
+      "phonetic": "/ə'mend/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "The constitution was amended to reflect new realities.",
+        "He offered to amend the proposal."
+      ]
+    },
+    {
+      "word": "analogy",
+      "chinese": "n. 类比，相似",
+      "phonetic": "/ə'nælədʒi/",
+      "part_of_speech": "noun",
+      "sentences": [
+        "He used an analogy to explain the complex concept.",
+        "The analogy between the heart and a pump is common."
+      ]
+    },
+    {
+      "word": "annual",
+      "chinese": "adj. 每年的，年度的",
+      "phonetic": "/'ænjuəl/",
+      "part_of_speech": "adj",
+      "sentences": [
+        "The company holds its annual meeting in December.",
+        "Her annual salary is quite competitive."
+      ]
+    },
+    {
+      "word": "antipathy",
+      "chinese": "n. 反感，厌恶",
+      "phonetic": "/æn'tɪpəθi/",
+      "part_of_speech": "noun",
+      "sentences": [
+        "He felt a strong antipathy towards the proposal.",
+        "There is mutual antipathy between the two groups."
+      ]
+    },
+    {
+      "word": "apparent",
+      "chinese": "adj. 明显的，表面上的",
+      "phonetic": "/ə'pærənt/",
+      "part_of_speech": "adj",
+      "sentences": [
+        "His happiness was apparent to everyone.",
+        "The apparent simplicity of the design is deceptive."
+      ]
+    },
+    {
+      "word": "appeal",
+      "chinese": "v./n. 呼吁，上诉；吸引力",
+      "phonetic": "/ə'piːl/",
+      "part_of_speech": "verb/noun",
+      "sentences": [
+        "The charity appealed for donations.",
+        "The movie has wide appeal across age groups."
+      ]
+    },
+    {
+      "word": "appreciate",
+      "chinese": "v. 欣赏，感激；增值",
+      "phonetic": "/ə'priːʃieɪt/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "I truly appreciate your help.",
+        "Real estate values have appreciated significantly."
+      ]
+    },
+    {
+      "word": "approach",
+      "chinese": "v./n. 接近；方法，途径",
+      "phonetic": "/ə'prəʊtʃ/",
+      "part_of_speech": "verb/noun",
+      "sentences": [
+        "We are approaching a solution to the problem.",
+        "His approach to teaching is innovative."
+      ]
+    },
+    {
+      "word": "appropriate",
+      "chinese": "adj./v. 适当的；拨出，占用",
+      "phonetic": "/ə'prəʊpriət/",
+      "part_of_speech": "adj/verb",
+      "sentences": [
+        "Please wear appropriate attire for the interview.",
+        "The government appropriated funds for the new hospital."
+      ]
+    },
+    {
+      "word": "arbitrary",
+      "chinese": "adj. 任意的，武断的",
+      "phonetic": "/'ɑːbɪtrəri/",
+      "part_of_speech": "adj",
+      "sentences": [
+        "The decision seemed arbitrary and unfair.",
+        "He made an arbitrary choice without consulting others."
+      ]
+    },
+    {
+      "word": "ascertain",
+      "chinese": "v. 查明，确定",
+      "phonetic": "/ˌæsə'teɪn/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "We need to ascertain the facts before deciding.",
+        "The police are trying to ascertain his whereabouts."
+      ]
+    },
+    {
+      "word": "aspect",
+      "chinese": "n. 方面，面貌",
+      "phonetic": "/'æspekt/",
+      "part_of_speech": "noun",
+      "sentences": [
+        "We must consider every aspect of the problem.",
+        "Her cheerful aspect lifted everyone's spirits."
+      ]
+    },
+    {
+      "word": "assemble",
+      "chinese": "v. 集合，组装",
+      "phonetic": "/ə'sembl/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "The team will assemble at 9 AM tomorrow.",
+        "It took hours to assemble the furniture."
+      ]
+    },
+    {
+      "word": "assert",
+      "chinese": "v. 断言，主张",
+      "phonetic": "/ə'sɜːt/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "He asserted his innocence throughout the trial.",
+        "She asserted her authority in the meeting."
+      ]
+    },
+    {
+      "word": "assess",
+      "chinese": "v. 评估，评定",
+      "phonetic": "/ə'ses/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "We need to assess the damage caused by the storm.",
+        "The teacher will assess the students' progress."
+      ]
+    },
+    {
+      "word": "assume",
+      "chinese": "v. 假设，承担",
+      "phonetic": "/ə'sjuːm/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "Let's assume for a moment that you're right.",
+        "She will assume the role of director next month."
+      ]
+    },
+    {
+      "word": "attribute",
+      "chinese": "v./n. 把...归因于；属性，特性",
+      "phonetic": "/ə'trɪbjuːt/",
+      "part_of_speech": "verb/noun",
+      "sentences": [
+        "He attributes his success to hard work.",
+        "Patience is an essential attribute for a teacher."
+      ]
+    },
+    {
+      "word": "augment",
+      "chinese": "v. 增加，增大",
+      "phonetic": "/ɔːɡ'ment/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "He took a second job to augment his income.",
+        "They used spices to augment the flavor of the dish."
+      ]
+    },
+    {
+      "word": "authentic",
+      "chinese": "adj. 真实的，可信的",
+      "phonetic": "/ɔː'θentɪk/",
+      "part_of_speech": "adj",
+      "sentences": [
+        "This is an authentic painting by Van Gogh.",
+        "They serve authentic Italian cuisine."
+      ]
+    },
+    {
+      "word": "authority",
+      "chinese": "n. 权威，权力；当局",
+      "phonetic": "/ɔː'θɒrəti/",
+      "part_of_speech": "noun",
+      "sentences": [
+        "He speaks with authority on the subject.",
+        "The local authorities are investigating the incident."
+      ]
+    },
+    {
+      "word": "available",
+      "chinese": "adj. 可获得的，可用的",
+      "phonetic": "/ə'veɪləbl/",
+      "part_of_speech": "adj",
+      "sentences": [
+        "The manager is not available at the moment.",
+        "Various resources are available online."
+      ]
+    },
+    {
+      "word": "beneficial",
+      "chinese": "adj. 有益的，有利的",
+      "phonetic": "/ˌbenɪ'fɪʃl/",
+      "part_of_speech": "adj",
+      "sentences": [
+        "Regular exercise is beneficial to your health.",
+        "The agreement is mutually beneficial."
+      ]
+    },
+    {
+      "word": "bias",
+      "chinese": "n./v. 偏见，偏爱；使有偏见",
+      "phonetic": "/'baɪəs/",
+      "part_of_speech": "noun/verb",
+      "sentences": [
+        "The journalist tried to avoid bias in her reporting.",
+        "His upbringing biased him against modern art."
+      ]
+    },
+    {
+      "word": "brevity",
+      "chinese": "n. 简洁，简短",
+      "phonetic": "/'brevəti/",
+      "part_of_speech": "noun",
+      "sentences": [
+        "Brevity is the soul of wit.",
+        "He explained the complex idea with remarkable brevity."
+      ]
+    },
+    {
+      "word": "capable",
+      "chinese": "adj. 有能力的，能干的",
+      "phonetic": "/'keɪpəbl/",
+      "part_of_speech": "adj",
+      "sentences": [
+        "She is a very capable manager.",
+        "This tool is capable of handling heavy loads."
+      ]
+    },
+    {
+      "word": "capacity",
+      "chinese": "n. 容量，能力；职位",
+      "phonetic": "/kə'pæsəti/",
+      "part_of_speech": "noun",
+      "sentences": [
+        "The stadium has a capacity of 50,000 people.",
+        "He served in an advisory capacity."
+      ]
+    },
+    {
+      "word": "challenge",
+      "chinese": "n./v. 挑战；质疑",
+      "phonetic": "/'tʃælɪndʒ/",
+      "part_of_speech": "noun/verb",
+      "sentences": [
+        "Climbing the mountain was a great challenge.",
+        "She challenged the traditional way of thinking."
+      ]
+    },
+    {
+      "word": "clarify",
+      "chinese": "v. 澄清，阐明",
+      "phonetic": "/'klærəfaɪ/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "Could you clarify what you mean by that?",
+        "The statement was issued to clarify the company's position."
+      ]
+    },
+    {
+      "word": "coherent",
+      "chinese": "adj. 连贯的，一致的",
+      "phonetic": "/kəʊ'hɪərənt/",
+      "part_of_speech": "adj",
+      "sentences": [
+        "She presented a coherent argument.",
+        "The essay lacks a coherent structure."
+      ]
+    },
+    {
+      "word": "coincide",
+      "chinese": "v. 同时发生，一致",
+      "phonetic": "/ˌkəʊɪn'saɪd/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "Our vacations coincide this year.",
+        "His interests coincide with mine."
+      ]
+    },
+    {
+      "word": "collaborate",
+      "chinese": "v. 合作，协作",
+      "phonetic": "/kə'læbəreɪt/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "The two companies collaborated on the project.",
+        "Researchers from different fields collaborate frequently."
+      ]
+    },
+    {
+      "word": "commence",
+      "chinese": "v. 开始，着手",
+      "phonetic": "/kə'mens/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "The ceremony will commence at noon.",
+        "He commenced his speech with a joke."
+      ]
+    },
+    {
+      "word": "comment",
+      "chinese": "n./v. 评论，意见；评论",
+      "phonetic": "/'kɒment/",
+      "part_of_speech": "noun/verb",
+      "sentences": [
+        "He made a positive comment about her work.",
+        "She declined to comment on the allegations."
+      ]
+    },
+    {
+      "word": "commission",
+      "chinese": "n./v. 委员会；委托，委任",
+      "phonetic": "/kə'mɪʃn/",
+      "part_of_speech": "noun/verb",
+      "sentences": [
+        "The government set up a commission to investigate.",
+        "They commissioned an artist to paint the portrait."
+      ]
+    },
+    {
+      "word": "commitment",
+      "chinese": "n. 承诺，奉献；投入",
+      "phonetic": "/kə'mɪtmənt/",
+      "part_of_speech": "noun",
+      "sentences": [
+        "She has a strong commitment to her family.",
+        "The company shows little commitment to sustainability."
+      ]
+    },
+    {
+      "word": "commodity",
+      "chinese": "n. 商品，货物",
+      "phonetic": "/kə'mɒdəti/",
+      "part_of_speech": "noun",
+      "sentences": [
+        "Oil is a valuable global commodity.",
+        "The store sells various household commodities."
+      ]
+    },
+    {
+      "word": "compatible",
+      "chinese": "adj. 兼容的，能共处的",
+      "phonetic": "/kəm'pætəbl/",
+      "part_of_speech": "adj",
+      "sentences": [
+        "The software is compatible with all operating systems.",
+        "They are a compatible couple."
+      ]
+    },
+    {
+      "word": "compensate",
+      "chinese": "v. 补偿，赔偿",
+      "phonetic": "/'kɒmpenseɪt/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "The company will compensate you for your loss.",
+        "Her enthusiasm compensates for her lack of experience."
+      ]
+    },
+    {
+      "word": "compile",
+      "chinese": "v. 编译，汇编",
+      "phonetic": "/kəm'paɪl/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "She compiled a list of potential candidates.",
+        "The data was compiled from various sources."
+      ]
+    },
+    {
+      "word": "complement",
+      "chinese": "v./n. 补充，补足；补充物",
+      "phonetic": "/'kɒmplɪment/",
+      "part_of_speech": "verb/noun",
+      "sentences": [
+        "The wine complements the cheese perfectly.",
+        "The two skills are complements to each other."
+      ]
+    },
+    {
+      "word": "comprehensive",
+      "chinese": "adj. 全面的，综合的",
+      "phonetic": "/ˌkɒmprɪ'hensɪv/",
+      "part_of_speech": "adj",
+      "sentences": [
+        "The report provides a comprehensive analysis.",
+        "She has a comprehensive understanding of the topic."
+      ]
+    },
+    {
+      "word": "comprise",
+      "chinese": "v. 包含，由...组成",
+      "phonetic": "/kəm'praɪz/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "The committee comprises experts from various fields.",
+        "The collection comprises over 500 paintings."
+      ]
+    },
+    {
+      "word": "concede",
+      "chinese": "v. 承认，让步",
+      "phonetic": "/kən'siːd/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "I concede that you have a point.",
+        "The candidate conceded defeat after the results were announced."
+      ]
+    },
+    {
+      "word": "conceive",
+      "chinese": "v. 构思，设想；怀孕",
+      "phonetic": "/kən'siːv/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "It's hard to conceive of a world without electricity.",
+        "The plan was conceived last year."
+      ]
+    },
+    {
+      "word": "concentrate",
+      "chinese": "v. 集中，浓缩",
+      "phonetic": "/'kɒnsntreɪt/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "Please concentrate on your work.",
+        "The industry is concentrated in the southern region."
+      ]
+    },
+    {
+      "word": "concept",
+      "chinese": "n. 概念，观念",
+      "phonetic": "/'kɒnsept/",
+      "part_of_speech": "noun",
+      "sentences": [
+        "The concept of time is difficult to explain.",
+        "She introduced a new concept in design."
+      ]
+    },
+    {
+      "word": "concurrent",
+      "chinese": "adj. 同时发生的，并存的",
+      "phonetic": "/kən'kʌrənt/",
+      "part_of_speech": "adj",
+      "sentences": [
+        "The two events were concurrent.",
+        "He held two concurrent positions at the university."
+      ]
+    },
+    {
+      "word": "conduct",
+      "chinese": "v./n. 进行，引导；行为",
+      "phonetic": "/kən'dʌkt/",
+      "part_of_speech": "verb/noun",
+      "sentences": [
+        "They will conduct an experiment tomorrow.",
+        "His conduct during the meeting was professional."
+      ]
+    },
+    {
+      "word": "confine",
+      "chinese": "v. 限制，禁闭",
+      "phonetic": "/kən'faɪn/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "Please confine your remarks to the topic.",
+        "The virus is confined to a small area."
+      ]
+    },
+    {
+      "word": "confirm",
+      "chinese": "v. 确认，证实",
+      "phonetic": "/kən'fɜːm/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "Please confirm your attendance by Friday.",
+        "The test results confirmed the diagnosis."
+      ]
+    },
+    {
+      "word": "conflict",
+      "chinese": "n./v. 冲突，矛盾；抵触",
+      "phonetic": "/'kɒnflɪkt/",
+      "part_of_speech": "noun/verb",
+      "sentences": [
+        "There is a conflict of interest.",
+        "His account conflicts with the evidence."
+      ]
+    },
+    {
+      "word": "conform",
+      "chinese": "v. 符合，遵守",
+      "phonetic": "/kən'fɔːm/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "All products must conform to safety standards.",
+        "He refused to conform to social norms."
+      ]
+    },
+    {
+      "word": "consent",
+      "chinese": "n./v. 同意，准许",
+      "phonetic": "/kən'sent/",
+      "part_of_speech": "noun/verb",
+      "sentences": [
+        "You need written consent to proceed.",
+        "She consented to the interview."
+      ]
+    },
+    {
+      "word": "consequent",
+      "chinese": "adj. 随之发生的，作为结果的",
+      "phonetic": "/'kɒnsɪkwənt/",
+      "part_of_speech": "adj",
+      "sentences": [
+        "The heavy rain and consequent flooding caused damage.",
+        "His resignation and the consequent reorganization surprised everyone."
+      ]
+    },
+    {
+      "word": "considerable",
+      "chinese": "adj. 相当大的，相当多的",
+      "phonetic": "/kən'sɪdərəbl/",
+      "part_of_speech": "adj",
+      "sentences": [
+        "The project requires considerable investment.",
+        "She has considerable experience in the field."
+      ]
+    },
+    {
+      "word": "consist",
+      "chinese": "v. 组成，存在于",
+      "phonetic": "/kən'sɪst/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "The committee consists of ten members.",
+        "Happiness does not consist in having many possessions."
+      ]
+    },
+    {
+      "word": "constant",
+      "chinese": "adj. 不断的，恒定的",
+      "phonetic": "/'kɒnstənt/",
+      "part_of_speech": "adj",
+      "sentences": [
+        "He is under constant pressure at work.",
+        "The temperature remains constant."
+      ]
+    },
+    {
+      "word": "constitute",
+      "chinese": "v. 组成，构成",
+      "phonetic": "/'kɒnstɪtjuːt/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "Women constitute the majority of the workforce.",
+        "These actions constitute a violation of the agreement."
+      ]
+    },
+    {
+      "word": "contemporary",
+      "chinese": "adj./n. 当代的，同时代的；同代人",
+      "phonetic": "/kən'temprəri/",
+      "part_of_speech": "adj/noun",
+      "sentences": [
+        "She studies contemporary art.",
+        "He was a contemporary of Shakespeare."
+      ]
+    },
+    {
+      "word": "context",
+      "chinese": "n. 背景，上下文",
+      "phonetic": "/'kɒntekst/",
+      "part_of_speech": "noun",
+      "sentences": [
+        "You need to consider the historical context.",
+        "The meaning of a word depends on its context."
+      ]
+    },
+    {
+      "word": "contract",
+      "chinese": "n./v. 合同；收缩，感染",
+      "phonetic": "/'kɒntrækt/",
+      "part_of_speech": "noun/verb",
+      "sentences": [
+        "They signed a two-year contract.",
+        "Metals contract when cooled."
+      ]
+    },
+    {
+      "word": "contradict",
+      "chinese": "v. 反驳，与...矛盾",
+      "phonetic": "/ˌkɒntrə'dɪkt/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "The witness contradicted the defendant's statement.",
+        "His actions contradict his words."
+      ]
+    },
+    {
+      "word": "contrast",
+      "chinese": "n./v. 对比，对照；形成对比",
+      "phonetic": "/'kɒntrɑːst/",
+      "part_of_speech": "noun/verb",
+      "sentences": [
+        "There is a sharp contrast between the two cultures.",
+        "His actions contrast sharply with his promises."
+      ]
+    },
+    {
+      "word": "contribute",
+      "chinese": "v. 贡献，捐献；促成",
+      "phonetic": "/kən'trɪbjuːt/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "He contributed generously to the charity.",
+        "Many factors contributed to the accident."
+      ]
+    },
+    {
+      "word": "controversy",
+      "chinese": "n. 争议，争论",
+      "phonetic": "/'kɒntrəvɜːsi/",
+      "part_of_speech": "noun",
+      "sentences": [
+        "The new policy sparked controversy.",
+        "There is considerable controversy over the issue."
+      ]
+    },
+    {
+      "word": "convene",
+      "chinese": "v. 召集，集合",
+      "phonetic": "/kən'viːn/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "The committee will convene next week.",
+        "The chairman convened an emergency meeting."
+      ]
+    },
+    {
+      "word": "converse",
+      "chinese": "v./n. 交谈，谈话；相反的",
+      "phonetic": "/kən'vɜːs/",
+      "part_of_speech": "verb/noun/adj",
+      "sentences": [
+        "They conversed for hours about philosophy.",
+        "The converse is also true."
+      ]
+    },
+    {
+      "word": "convert",
+      "chinese": "v. 转变，转换",
+      "phonetic": "/kən'vɜːt/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "They converted the attic into a bedroom.",
+        "He converted to Buddhism last year."
+      ]
+    },
+    {
+      "word": "convince",
+      "chinese": "v. 使确信，说服",
+      "phonetic": "/kən'vɪns/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "I tried to convince him to change his mind.",
+        "The evidence convinced me of his innocence."
+      ]
+    },
+    {
+      "word": "cooperate",
+      "chinese": "v. 合作，协作",
+      "phonetic": "/kəʊ'ɒpəreɪt/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "The two companies agreed to cooperate on the project.",
+        "She cooperated fully with the investigation."
+      ]
     }
   ]
 }

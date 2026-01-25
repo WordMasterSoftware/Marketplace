@@ -1,0 +1,316 @@
+{
+  "name": "CET-6 Core Vocabulary",
+  "description": "Essential vocabulary for CET-6 exam preparation.",
+  "words": [
+    {
+      "word": "abide",
+      "chinese": "v. 遵守，忍受",
+      "phonetic": "/ə'baɪd/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "You must abide by the rules of the school.",
+        "I cannot abide his arrogant attitude."
+      ]
+    },
+    {
+      "word": "abnormal",
+      "chinese": "adj. 反常的，变态的",
+      "phonetic": "/æb'nɔːrml/",
+      "part_of_speech": "adj",
+      "sentences": [
+        "The test results showed abnormal cell growth.",
+        "Such cold weather is abnormal for July."
+      ]
+    },
+    {
+      "word": "abolish",
+      "chinese": "v. 废除，废止",
+      "phonetic": "/ə'bɒlɪʃ/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "The government plans to abolish the outdated tax.",
+        "Slavery was abolished in the 19th century."
+      ]
+    },
+    {
+      "word": "abrupt",
+      "chinese": "adj. 突然的，唐突的",
+      "phonetic": "/ə'brʌpt/",
+      "part_of_speech": "adj",
+      "sentences": [
+        "The meeting came to an abrupt end.",
+        "His abrupt manner made everyone uncomfortable."
+      ]
+    },
+    {
+      "word": "absurd",
+      "chinese": "adj. 荒谬的，可笑的",
+      "phonetic": "/əb'sɜːd/",
+      "part_of_speech": "adj",
+      "sentences": [
+        "It is absurd to believe that the earth is flat.",
+        "The whole situation was completely absurd."
+      ]
+    },
+    {
+      "word": "abundance",
+      "chinese": "n. 丰富，充裕",
+      "phonetic": "/ə'bʌndəns/",
+      "part_of_speech": "noun",
+      "sentences": [
+        "There is an abundance of fresh fruit in summer.",
+        "The region is famous for its abundance of wildlife."
+      ]
+    },
+    {
+      "word": "accessory",
+      "chinese": "n. 附件，配件；从犯",
+      "phonetic": "/ək'sesəri/",
+      "part_of_speech": "noun",
+      "sentences": [
+        "She bought a matching handbag as an accessory.",
+        "He was charged as an accessory to the crime."
+      ]
+    },
+    {
+      "word": "accord",
+      "chinese": "n./v. 一致，符合；授予",
+      "phonetic": "/ə'kɔːd/",
+      "part_of_speech": "noun/verb",
+      "sentences": [
+        "His actions are in accord with his words.",
+        "She was accorded a warm welcome."
+      ]
+    },
+    {
+      "word": "acknowledge",
+      "chinese": "v. 承认，确认；致谢",
+      "phonetic": "/ək'nɒlɪdʒ/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "He acknowledged his mistake publicly.",
+        "I must acknowledge the help of my colleagues."
+      ]
+    },
+    {
+      "word": "acquisition",
+      "chinese": "n. 获得，习得；收购",
+      "phonetic": "/ˌækwɪ'zɪʃn/",
+      "part_of_speech": "noun",
+      "sentences": [
+        "Language acquisition is easier for children.",
+        "The company announced a major acquisition."
+      ]
+    },
+    {
+      "word": "activate",
+      "chinese": "v. 激活，启动",
+      "phonetic": "/'æktɪveɪt/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "Press the button to activate the alarm.",
+        "The drug activates the immune system."
+      ]
+    },
+    {
+      "word": "acute",
+      "chinese": "adj. 敏锐的，剧烈的；急性的",
+      "phonetic": "/ə'kjuːt/",
+      "part_of_speech": "adj",
+      "sentences": [
+        "Dogs have an acute sense of smell.",
+        "The patient is suffering from acute pain."
+      ]
+    },
+    {
+      "word": "adhere",
+      "chinese": "v. 黏附，坚持",
+      "phonetic": "/əd'hɪə(r)/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "The stamp adheres firmly to the envelope.",
+        "We must adhere to the principles of fairness."
+      ]
+    },
+    {
+      "word": "adjacent",
+      "chinese": "adj. 邻近的，毗连的",
+      "phonetic": "/ə'dʒeɪsnt/",
+      "part_of_speech": "adj",
+      "sentences": [
+        "Our house is adjacent to the park.",
+        "The fire quickly spread to adjacent buildings."
+      ]
+    },
+    {
+      "word": "administer",
+      "chinese": "v. 管理，执行；给药",
+      "phonetic": "/əd'mɪnɪstə(r)/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "It takes skill to administer a large company.",
+        "The nurse will administer the vaccine."
+      ]
+    },
+    {
+      "word": "adolescent",
+      "chinese": "n./adj. 青少年；青春期的",
+      "phonetic": "/ˌædə'lesnt/",
+      "part_of_speech": "noun/adj",
+      "sentences": [
+        "Adolescents often face peer pressure.",
+        "She is going through an adolescent phase."
+      ]
+    },
+    {
+      "word": "adverse",
+      "chinese": "adj. 不利的，敌对的",
+      "phonetic": "/'ædvɜːs/",
+      "part_of_speech": "adj",
+      "sentences": [
+        "The drug has no adverse side effects.",
+        "They sailed in adverse weather conditions."
+      ]
+    },
+    {
+      "word": "aerial",
+      "chinese": "adj./n. 空中的，航空的；天线",
+      "phonetic": "/'eəriəl/",
+      "part_of_speech": "adj/noun",
+      "sentences": [
+        "They conducted an aerial survey of the area.",
+        "The TV aerial was damaged in the storm."
+      ]
+    },
+    {
+      "word": "aesthetic",
+      "chinese": "adj. 美学的，审美的",
+      "phonetic": "/iːs'θetɪk/",
+      "part_of_speech": "adj",
+      "sentences": [
+        "The building has great aesthetic value.",
+        "The design is pleasing from an aesthetic point of view."
+      ]
+    },
+    {
+      "word": "affiliate",
+      "chinese": "v./n. 使隶属，加入；附属机构",
+      "phonetic": "/ə'fɪlieɪt/",
+      "part_of_speech": "verb/noun",
+      "sentences": [
+        "The college is affiliated with the university.",
+        "The company has many affiliates overseas."
+      ]
+    },
+    {
+      "word": "affirm",
+      "chinese": "v. 断言，证实",
+      "phonetic": "/ə'fɜːm/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "The witness affirmed that he saw the defendant.",
+        "The court affirmed the lower court's ruling."
+      ]
+    },
+    {
+      "word": "aggravate",
+      "chinese": "v. 加重，使恶化",
+      "phonetic": "/'æɡrəveɪt/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "His comments only aggravated the situation.",
+        "The pollution aggravates her asthma."
+      ]
+    },
+    {
+      "word": "aggregate",
+      "chinese": "n./v. 合计，总计；聚集",
+      "phonetic": "/'æɡrɪɡət/",
+      "part_of_speech": "noun/verb",
+      "sentences": [
+        "The aggregate of all donations was impressive.",
+        "These small gains aggregate into a significant advantage."
+      ]
+    },
+    {
+      "word": "agony",
+      "chinese": "n. 极大的痛苦，苦恼",
+      "phonetic": "/'æɡəni/",
+      "part_of_speech": "noun",
+      "sentences": [
+        "He was in agony after the accident.",
+        "She went through agony waiting for the results."
+      ]
+    },
+    {
+      "word": "alert",
+      "chinese": "adj./v./n. 警觉的；使警惕；警报",
+      "phonetic": "/ə'lɜːt/",
+      "part_of_speech": "adj/verb/noun",
+      "sentences": [
+        "The guard remained alert throughout the night.",
+        "The sign alerts drivers to the sharp turn ahead."
+      ]
+    },
+    {
+      "word": "alien",
+      "chinese": "adj./n. 外国的，陌生的；外国人，外星人",
+      "phonetic": "/'eɪliən/",
+      "part_of_speech": "adj/noun",
+      "sentences": [
+        "The customs seemed alien to the new immigrants.",
+        "The movie is about an alien invasion."
+      ]
+    },
+    {
+      "word": "allege",
+      "chinese": "v. 断言，宣称",
+      "phonetic": "/ə'ledʒ/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "The report alleges corruption in the department.",
+        "He is alleged to have stolen the money."
+      ]
+    },
+    {
+      "word": "alleviate",
+      "chinese": "v. 减轻，缓和",
+      "phonetic": "/ə'liːvieɪt/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "The medicine helps alleviate the pain.",
+        "Measures were taken to alleviate poverty."
+      ]
+    },
+    {
+      "word": "allocate",
+      "chinese": "v. 分配，分派",
+      "phonetic": "/'æləkeɪt/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "The government will allocate funds for the project.",
+        "We need to allocate resources efficiently."
+      ]
+    },
+    {
+      "word": "alternate",
+      "chinese": "v./adj. 交替，轮流；间隔的，轮流的",
+      "phonetic": "/'ɔːltəneɪt/",
+      "part_of_speech": "verb/adj",
+      "sentences": [
+        "Day alternates with night.",
+        "The group meets on alternate Thursdays."
+      ]
+    },
+    {
+      "word": "ambiguous",
+      "chinese": "adj. 模棱两可的，不明确的",
+      "phonetic": "/æm'bɪɡjuəs/",
+      "part_of_speech": "adj",
+      "sentences": [
+        "His answer was deliberately ambiguous.",
+        "The law is ambiguous on this issue."
+      ]
+    }
+  ]
+}

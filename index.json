@@ -4,6 +4,11 @@
       "name": "TOEFL Core Vocabulary",
       "description": "Essential vocabulary for TOEFL exam preparation.",
       "path": "wordbook/toefl_core.json"
+    },
+    {
+      "name": "CET-6 Core Vocabulary",
+      "description": "Essential vocabulary for CET-6 exam preparation.",
+      "path": "wordbook/cet6_30_core.json"
     }
   ]
 }
