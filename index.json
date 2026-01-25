@@ -1,0 +1,9 @@
+{
+  "book": [
+    {
+      "name": "TOEFL Core Vocabulary",
+      "description": "Essential vocabulary for TOEFL exam preparation.",
+      "path": "wordbook/toefl_core.json"
+    }
+  ]
+}

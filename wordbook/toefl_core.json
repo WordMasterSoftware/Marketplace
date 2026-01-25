@@ -1,0 +1,26 @@
+{
+  "name": "TOEFL Core Vocabulary",
+  "description": "Essential vocabulary for TOEFL exam preparation.",
+  "words": [
+    {
+      "word": "abandon",
+      "chinese": "v. 遗弃，放弃",
+      "phonetic": "/ə'bændən/",
+      "part_of_speech": "verb",
+      "sentences": [
+        "The captain gave the order to abandon ship.",
+        "He decided to abandon his plan."
+      ]
+    },
+    {
+      "word": "adverse",
+      "chinese": "adj. 不利的，有害的",
+      "phonetic": "/'ædvɜːrs/",
+      "part_of_speech": "adj",
+      "sentences": [
+        "The drug has no adverse side effects.",
+        "They received adverse criticism."
+      ]
+    }
+  ]
+}
