@@ -9,6 +9,11 @@
       "name": "CET-6 Core Vocabulary",
       "description": "Essential vocabulary for CET-6 exam preparation.",
       "path": "wordbook/cet6_30_core.json"
+    },
+    {
+      "name": "CET4 Vocabulary",
+      "description": "Essential vocabulary for CET-4 exam preparation.",
+      "path": "wordbook/cet4_core.json"
     }
   ]
 }
